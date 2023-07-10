@@ -7,5 +7,3 @@ __模组适用版本：`1.12.2`__
 A minecraft __`FORGE`__ mod adding some useful UI into minecraft  
 __For minecraft version:`1.12.2`__  
 
-
-
